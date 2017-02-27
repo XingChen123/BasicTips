@@ -8,6 +8,7 @@
 * [1.3 [TabBar]修改tabbar图片颜色](#w3)
 * [1.4 [TabBar]按tabbar时候给其添加方法](#w4)
 * [1.5 [Alert]AlertController](#w5)
+* [1.6 [<font color=FF8C00 >Label</font>]如何get到label的长和宽](#w6)
 * [1.1如何给Textfield里面添加Logo](#TextField1)
 
 ###<font color=#ff6347 >2 第三方软件应用篇</font>
